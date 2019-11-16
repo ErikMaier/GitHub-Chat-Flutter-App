@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "129578601206",
+    "firebase_url": "https://crazy-chat-5fbdf.firebaseio.com",
+    "project_id": "crazy-chat-5fbdf",
+    "storage_bucket": "crazy-chat-5fbdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129578601206:android:f3c632e65d30fe3cd47ad7",
+        "android_client_info": {
+          "package_name": "com.websiterebels.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129578601206-m4ct8ricu5kcq8v7j0l2505pvi29073q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4tXqgy1EJo13L6x_sG8IFRj6uBp78ZBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129578601206-m4ct8ricu5kcq8v7j0l2505pvi29073q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
